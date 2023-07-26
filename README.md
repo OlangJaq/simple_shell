@@ -1,7 +1,8 @@
 # **Background Context**
 Write a simple UNIX command interpreter.
 
-![“The Gates of Shell”, by Spencer Cheng, featuring Julien Barbier](C:\Users\user\Alx-SWE\shell)
+![“The Gates of Shell”, by Spencer Cheng, featuring Julien BarbierAlt Text](https://raw.githubusercontent.com/Olangjaq/simple_shell/main/images/shell.jpg)
+
 
 ## **Resources**
 # **Read or watch:**
