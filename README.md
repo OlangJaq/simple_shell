@@ -1,7 +1,7 @@
 # **Background Context**
 Write a simple UNIX command interpreter.
 
-![“The Gates of Shell”, by Spencer Cheng, featuring Julien BarbierAlt Text](https://raw.githubusercontent.com/Olangjaq/simple_shell/main/images/shell.jpg)
+![“The Gates of Shell”, by Spencer Cheng, featuring Julien BarbierAlt Text](https://raw.githubusercontent.com/Olangjaq/simple_shell/main/Images/shell)
 
 
 ## **Resources**
@@ -16,7 +16,7 @@ Write a simple UNIX command interpreter.
 **Everything you need to know to start coding your own shell concept page**
 
 ### **man or help:**
- sh (Run sh as well)
+ `sh` (Run `sh` as well)
 
 ## **Learning Objectives**
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
